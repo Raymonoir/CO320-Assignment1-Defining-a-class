@@ -5,4 +5,4 @@ This task was used to test our ability to create an object orientated class in t
 We had around two weeks to complete the task
 
 
-I recieved a first for this assignment.
+I recieved a 100% for this assignment.
